@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
 title: "LeakFree-EVC Demo" 
 description: "Demo page for paper titled LeakFree-EVC: Mitigating Source Style Leakage in Zero-Shot Expressive Voice Conversion"
+theme: jekyll-theme-minimal
