@@ -29,13 +29,33 @@
 <tbody>
   <tr>
     <td class="tg-73oq"><audio controls>
-        <source src="/assets/audio/sample.mp3" type="audio/wav">
+        <source src="/source_samples/neutral/saomething.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq">
+    <audio controls>
+        <source src="/target_samples/neutral/03-01-01-01-02-01-15.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    </td>
+    <td class="tg-73oq">
+    <audio controls>
+        <source src="/consistency-vc/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    </td>
+    <td class="tg-73oq">
+    <audio controls>
+        <source src="/hierspeechpp/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    </td>
+    <td class="tg-73oq">
+    <audio controls>
+        <source src="/ours/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav">
+        Your browser does not support the audio element.
+    </audio>
+    </td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
