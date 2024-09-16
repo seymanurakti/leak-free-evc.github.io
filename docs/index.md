@@ -1,7 +1,4 @@
-<html lang="{{ site.lang | default: "en-US" }}">
-  <body>
- <main id="content" class="main-content" role="main" style="margin: 0px 40px;">
-    <h1>{{ site.title }}</h1>
+<h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
 
     <h2>Neutral samples:</h2>
@@ -118,7 +115,3 @@
     </td>
   </tr>
 </tbody></table>
-
-    </main>
-  </body>
-</html>
