@@ -32,9 +32,7 @@
         <source src="/source_samples/neutral/saomething.wav" type="audio/wav">
     </audio></td>
     <td class="tg-73oq">
-    <audio controls>
-        <source src="target_samples/neutral/03-01-01-01-02-01-15.wav" type="audio/wav">
-    </audio>
+    <audio src="target_samples/neutral/03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
     </td>
     <td class="tg-73oq">
     <audio controls>
