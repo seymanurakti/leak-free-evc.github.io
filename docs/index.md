@@ -38,7 +38,7 @@
     <audio src="consistency-vc/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
     </td>
     <td class="tg-73oq">
-    <audio src="hierspeechpp/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
+    <audio src="hierspeech/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
     </td>
     <td class="tg-73oq">
     <audio src="ours/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
