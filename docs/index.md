@@ -117,3 +117,103 @@
     </td>
   </tr>
 </tbody></table>
+
+<h2>Happy samples:</h2>
+    
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-73oq">Source Audio</th>
+    <th class="tg-73oq">Target Audio</th>
+    <th class="tg-73oq">Consistency-VC</th>
+    <th class="tg-73oq">HierSpeech++</th>
+    <th class="tg-73oq">LeakFree-EVC (ours)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/121_127105_000035_000000.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/happy/03-01-03-01-01-02-14.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/happy/121_127105_000035_000000_to_03-01-03-01-01-02-14.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/happy/121_127105_000035_000000_to_03-01-03-01-01-02-14.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/happy/121_127105_000035_000000_to_03-01-03-01-01-02-14.wav" type="audio/wav" controls></audio>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/237_126133_000015_000002.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/happy/03-01-03-02-01-01-07.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/happy/237_126133_000015_000002_to_03-01-03-02-01-01-07.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/happy/237_126133_000015_000002_to_03-01-03-02-01-01-07.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/happy/237_126133_000015_000002_to_03-01-03-02-01-01-07.wav" type="audio/wav" controls></audio>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/1995_1826_000035_000000.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/happy/03-01-03-02-02-02-21.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/happy/1995_1826_000035_000000_to_03-01-03-02-02-02-21.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/happy/1995_1826_000035_000000_to_03-01-03-02-02-02-21.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/happy/1995_1826_000035_000000_to_03-01-03-02-02-02-21.wav" type="audio/wav" controls></audio>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/4446_2275_000025_000000.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/happy/03-01-03-02-01-01-16.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/happy/4446_2275_000025_000000_to_03-01-03-02-01-01-16.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/happy/4446_2275_000025_000000_to_03-01-03-02-01-01-16.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/happy/4446_2275_000025_000000_to_03-01-03-02-01-01-16.wav" type="audio/wav" controls></audio>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/4446_2275_000044_000006.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/happy/03-01-03-02-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/happy/4446_2275_000044_000006_to_03-01-03-02-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/happy/4446_2275_000044_000006_to_03-01-03-02-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/happy/4446_2275_000044_000006_to_03-01-03-02-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+  </tr>
+</tbody></table>
+
+
