@@ -1,7 +1,8 @@
 <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
 
-    <h2>Neutral samples:</h2>
+{{ site.description }}
+
+<h2>Neutral samples:</h2>
     
 <table class="tg"><thead>
   <tr>
