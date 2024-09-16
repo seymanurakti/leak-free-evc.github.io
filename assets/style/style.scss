@@ -1,6 +1,4 @@
 @import "{{ site.theme }}";
-#content {
-  width: 100%;
-  margin: 0px 50px;
-  padding: 10%;
+.main-content {
+  max-width: 100%;
 }
