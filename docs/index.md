@@ -35,19 +35,13 @@
     <audio src="target_samples/neutral/03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
     </td>
     <td class="tg-73oq">
-    <audio controls>
-        <source src="consistency-vc/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav">
-    </audio>
+    <audio src="consistency-vc/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
     </td>
     <td class="tg-73oq">
-    <audio controls>
-        <source src="/hierspeechpp/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav">
-    </audio>
+    <audio src="hierspeechpp/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
     </td>
     <td class="tg-73oq">
-    <audio controls>
-        <source src="/ours/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav">
-    </audio>
+    <audio src="ours/neutral/260_123440_000024_000001_to_03-01-01-01-02-01-15.wav" type="audio/wav" controls></audio>
     </td>
   </tr>
   <tr>
