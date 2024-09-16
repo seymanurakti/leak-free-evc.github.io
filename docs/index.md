@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
 </head>
-<body>
+<body style="width: 100%;">
     <h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
 
