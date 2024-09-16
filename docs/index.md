@@ -216,4 +216,208 @@
   </tr>
 </tbody></table>
 
+<h2>Sad samples:</h2>
+    
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-73oq">Source Audio</th>
+    <th class="tg-73oq">Target Audio</th>
+    <th class="tg-73oq">Consistency-VC</th>
+    <th class="tg-73oq">HierSpeech++</th>
+    <th class="tg-73oq">LeakFree-EVC (ours)</th>
+  </tr></thead>
+<tbody>
+    <tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/237_134500_000035_000006.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/sad/03-01-04-02-01-02-22.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/sad/237_134500_000035_000006_to_03-01-04-02-01-02-22.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/sad/237_134500_000035_000006_to_03-01-04-02-01-02-22.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/sad/237_134500_000035_000006_to_03-01-04-02-01-02-22.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/1580_141084_000052_000000.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/sad/03-01-04-01-02-02-19.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/sad/1580_141084_000052_000000_to_03-01-04-01-02-02-19.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/sad/1580_141084_000052_000000_to_03-01-04-01-02-02-19.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/sad/1580_141084_000052_000000_to_03-01-04-01-02-02-19.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/1580_141084_000089_000000.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/sad/03-01-04-02-02-02-08.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/sad/1580_141084_000089_000000_to_03-01-04-02-02-02-08.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/sad/1580_141084_000089_000000_to_03-01-04-02-02-02-08.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/sad/1580_141084_000089_000000_to_03-01-04-02-02-02-08.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/6829_68769_000090_000002.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/sad/03-01-04-01-01-02-07.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/sad/6829_68769_000090_000002_to_03-01-04-01-01-02-07.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/sad/6829_68769_000090_000002_to_03-01-04-01-01-02-07.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/sad/6829_68769_000090_000002_to_03-01-04-01-01-02-07.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/7176_88083_000015_000004.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/sad/03-01-04-01-02-02-23.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/sad/7176_88083_000015_000004_to_03-01-04-01-02-02-23.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/sad/7176_88083_000015_000004_to_03-01-04-01-02-02-23.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/sad/7176_88083_000015_000004_to_03-01-04-01-02-02-23.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+</tbody></table>
+
+<h2>Angry samples:</h2>
+    
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-73oq">Source Audio</th>
+    <th class="tg-73oq">Target Audio</th>
+    <th class="tg-73oq">Consistency-VC</th>
+    <th class="tg-73oq">HierSpeech++</th>
+    <th class="tg-73oq">LeakFree-EVC (ours)</th>
+  </tr></thead>
+<tbody>
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/237_134500_000035_000006.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/angry/03-01-05-01-02-01-18.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/angry/237_134500_000035_000006_to_03-01-05-01-02-01-18.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/angry/237_134500_000035_000006_to_03-01-05-01-02-01-18.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/angry/237_134500_000035_000006_to_03-01-05-01-02-01-18.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/1089_134686_000028_000008.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/angry/03-01-05-02-01-01-08.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/angry/1089_134686_000028_000008_to_03-01-05-02-01-01-08.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/angry/1089_134686_000028_000008_to_03-01-05-02-01-01-08.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/angry/1089_134686_000028_000008_to_03-01-05-02-01-01-08.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/5142_33396_000042_000001.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/angry/03-01-05-01-02-02-16.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/angry/5142_33396_000042_000001_to_03-01-05-01-02-02-16.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/angry/5142_33396_000042_000001_to_03-01-05-01-02-02-16.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/angry/5142_33396_000042_000001_to_03-01-05-01-02-02-16.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/5142_33396_000052_000000.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/angry/03-01-05-01-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/angry/5142_33396_000052_000000_to_03-01-05-01-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/angry/5142_33396_000052_000000_to_03-01-05-01-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/angry/5142_33396_000052_000000_to_03-01-05-01-02-01-13.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="tg-73oq">
+    <audio src="source_samples/7127_75946_000053_000000.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="target_samples/angry/03-01-05-02-01-02-15.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="consistency-vc/angry/7127_75946_000053_000000_to_03-01-05-02-01-02-15.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="hierspeech/angry/7127_75946_000053_000000_to_03-01-05-02-01-02-15.wav" type="audio/wav" controls></audio>
+    </td>
+    <td class="tg-73oq">
+    <audio src="ours/angry/7127_75946_000053_000000_to_03-01-05-02-01-02-15.wav" type="audio/wav" controls></audio>
+    </td>
+</tr>
+</tbody></table>
+
 
