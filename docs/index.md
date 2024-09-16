@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style/style.scss">
 <h1>{{ site.title }}</h1>
 
 {{ site.description }}
