@@ -1,3 +1,6 @@
 title: "LeakFree-EVC: Mitigating Source Style Leakage in Zero-Shot Expressive Voice Conversion"
 description: Demo page for LeakFree-EVC
 theme: jekyll-theme-cayman
+
+sass:
+  sass_dir: assets/style/
